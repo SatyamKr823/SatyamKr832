@@ -1,6 +1,6 @@
 <!-- Banner or Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=35&duration=2800&pause=1200&color=00B3FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Satyam+Kumar;Aspiring+Data+Analyst;Beginner+Developer+%7C+Tech+Enthusiast;I+Love+Transforming+Data+Into+Insights" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=35&duration=2800&pause=1200&color=00B3FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Satyam+Kumar;Aspiring+Java+Developer;Beginner+Data+Analyst+%7C+Tech+Enthusiast;I+Love+Transforming+Data+Into+Insights" alt="Typing Animation" />
 </h1>
 
 ---
